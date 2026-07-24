@@ -32,6 +32,11 @@ appear immediately.
 Then run `/wrap:wrap` (plugins are namespaced; the installer above
 gives you the bare `/wrap`).
 
+## Ideas for v2
+
+- `HANDOFF` verdict: when work should continue, but in a fresh session — output
+  a paste-ready handoff summary instead of just CONTINUE.
+
 ## License
 
 MIT
