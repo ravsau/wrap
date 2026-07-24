@@ -1,15 +1,15 @@
 {
   "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
-  "name": "session-tools",
-  "displayName": "Session Tools",
+  "name": "wrap",
+  "displayName": "Wrap",
   "version": "1.1.0",
-  "description": "Review the current Claude Code conversation for loose threads and decide whether to resume or stop.",
+  "description": "Review the current Claude Code conversation for loose threads and decide whether to stop or continue.",
   "author": {
     "name": "Saurav Sharma",
     "url": "https://github.com/ravsau"
   },
-  "homepage": "https://github.com/ravsau/resume-or-stop",
-  "repository": "https://github.com/ravsau/resume-or-stop",
+  "homepage": "https://github.com/ravsau/wrap",
+  "repository": "https://github.com/ravsau/wrap",
   "license": "MIT",
   "keywords": [
     "claude-code",

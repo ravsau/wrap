@@ -7,15 +7,15 @@
   },
   "plugins": [
     {
-      "name": "session-tools",
-      "displayName": "Session Tools",
-      "source": "./plugins/session-tools",
-      "description": "Find loose threads in the current Claude Code conversation and decide whether to resume or stop.",
+      "name": "wrap",
+      "displayName": "Wrap",
+      "source": "./plugins/wrap",
+      "description": "Find loose threads in the current Claude Code conversation and decide whether to stop or continue.",
       "author": {
         "name": "Saurav Sharma"
       },
-      "homepage": "https://github.com/ravsau/resume-or-stop",
-      "repository": "https://github.com/ravsau/resume-or-stop",
+      "homepage": "https://github.com/ravsau/wrap",
+      "repository": "https://github.com/ravsau/wrap",
       "license": "MIT",
       "category": "productivity",
       "tags": [
